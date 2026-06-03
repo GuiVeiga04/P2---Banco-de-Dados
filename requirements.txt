@@ -1,0 +1,14 @@
+# Banco de Dados / Data Warehouse
+duckdb==0.10.0
+
+# Manipulação e Tratamento de Dados
+pandas==2.2.0
+numpy==1.26.4
+
+# Visualização de Dados
+plotly==5.18.0
+nbformat>=4.2.0
+
+# Ambiente de Desenvolvimento (Notebooks)
+jupyter==1.0.0
+ipykernel==6.29.0
