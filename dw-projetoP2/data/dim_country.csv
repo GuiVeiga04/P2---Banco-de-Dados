@@ -1,0 +1,221 @@
+country_key,iso_code,country,start_date,end_date,is_current
+1,TWN,Taiwan,2026-06-02,,true
+2,TON,Tonga,2026-06-02,,true
+3,TCA,Turks and Caicos Islands,2026-06-02,,true
+4,TUV,Tuvalu,2026-06-02,,true
+5,UKR,Ukraine,2026-06-02,,true
+6,GBR,United Kingdom,2026-06-02,,true
+7,VEN,Venezuela,2026-06-02,,true
+8,ESH,Western Sahara,2026-06-02,,true
+9,ZMB,Zambia,2026-06-02,,true
+10,ALB,Albania,2026-06-02,,true
+11,AZE,Azerbaijan,2026-06-02,,true
+12,BEL,Belgium,2026-06-02,,true
+13,BEN,Benin,2026-06-02,,true
+14,BMU,Bermuda,2026-06-02,,true
+15,BTN,Bhutan,2026-06-02,,true
+16,BOL,Bolivia,2026-06-02,,true
+17,BRA,Brazil,2026-06-02,,true
+18,BFA,Burkina Faso,2026-06-02,,true
+19,BDI,Burundi,2026-06-02,,true
+20,CPV,Cape Verde,2026-06-02,,true
+21,CYM,Cayman Islands,2026-06-02,,true
+22,TCD,Chad,2026-06-02,,true
+23,CHN,China,2026-06-02,,true
+24,COL,Colombia,2026-06-02,,true
+25,CIV,Cote d'Ivoire,2026-06-02,,true
+26,CUB,Cuba,2026-06-02,,true
+27,CUW,Curacao,2026-06-02,,true
+28,CYP,Cyprus,2026-06-02,,true
+29,CZE,Czechia,2026-06-02,,true
+30,GNQ,Equatorial Guinea,2026-06-02,,true
+31,FIN,Finland,2026-06-02,,true
+32,GAB,Gabon,2026-06-02,,true
+33,GEO,Georgia,2026-06-02,,true
+34,GTM,Guatemala,2026-06-02,,true
+35,HKG,Hong Kong,2026-06-02,,true
+36,HUN,Hungary,2026-06-02,,true
+37,IDN,Indonesia,2026-06-02,,true
+38,IRQ,Iraq,2026-06-02,,true
+39,ITA,Italy,2026-06-02,,true
+40,JAM,Jamaica,2026-06-02,,true
+41,KAZ,Kazakhstan,2026-06-02,,true
+42,LVA,Latvia,2026-06-02,,true
+43,LTU,Lithuania,2026-06-02,,true
+44,MAC,Macao,2026-06-02,,true
+45,MDG,Madagascar,2026-06-02,,true
+46,MDA,Moldova,2026-06-02,,true
+47,MNG,Mongolia,2026-06-02,,true
+48,MNE,Montenegro,2026-06-02,,true
+49,NAM,Namibia,2026-06-02,,true
+50,NCL,New Caledonia,2026-06-02,,true
+51,NER,Niger,2026-06-02,,true
+52,NIU,Niue,2026-06-02,,true
+53,PRK,North Korea,2026-06-02,,true
+54,OMN,Oman,2026-06-02,,true
+55,PNG,Papua New Guinea,2026-06-02,,true
+56,PER,Peru,2026-06-02,,true
+57,PHL,Philippines,2026-06-02,,true
+58,QAT,Qatar,2026-06-02,,true
+59,ROU,Romania,2026-06-02,,true
+60,RUS,Russia,2026-06-02,,true
+61,RWA,Rwanda,2026-06-02,,true
+62,SHN,Saint Helena,2026-06-02,,true
+63,VCT,Saint Vincent and the Grenadines,2026-06-02,,true
+64,STP,Sao Tome and Principe,2026-06-02,,true
+65,SEN,Senegal,2026-06-02,,true
+66,SLE,Sierra Leone,2026-06-02,,true
+67,SGP,Singapore,2026-06-02,,true
+68,SVN,Slovenia,2026-06-02,,true
+69,LKA,Sri Lanka,2026-06-02,,true
+70,CHE,Switzerland,2026-06-02,,true
+71,SYR,Syria,2026-06-02,,true
+72,TTO,Trinidad and Tobago,2026-06-02,,true
+73,TKM,Turkmenistan,2026-06-02,,true
+74,USA,United States,2026-06-02,,true
+75,VIR,United States Virgin Islands,2026-06-02,,true
+76,UZB,Uzbekistan,2026-06-02,,true
+77,AGO,Angola,2026-06-02,,true
+78,ABW,Aruba,2026-06-02,,true
+79,AUT,Austria,2026-06-02,,true
+80,BHR,Bahrain,2026-06-02,,true
+81,BGD,Bangladesh,2026-06-02,,true
+82,BLR,Belarus,2026-06-02,,true
+83,BLZ,Belize,2026-06-02,,true
+84,BIH,Bosnia and Herzegovina,2026-06-02,,true
+85,VGB,British Virgin Islands,2026-06-02,,true
+86,KHM,Cambodia,2026-06-02,,true
+87,COK,Cook Islands,2026-06-02,,true
+88,DNK,Denmark,2026-06-02,,true
+89,DJI,Djibouti,2026-06-02,,true
+90,DOM,Dominican Republic,2026-06-02,,true
+91,FLK,Falkland Islands,2026-06-02,,true
+92,PYF,French Polynesia,2026-06-02,,true
+93,DEU,Germany,2026-06-02,,true
+94,GHA,Ghana,2026-06-02,,true
+95,GRC,Greece,2026-06-02,,true
+96,GRL,Greenland,2026-06-02,,true
+97,GRD,Grenada,2026-06-02,,true
+98,GUM,Guam,2026-06-02,,true
+99,GIN,Guinea,2026-06-02,,true
+100,ISL,Iceland,2026-06-02,,true
+101,IRN,Iran,2026-06-02,,true
+102,ISR,Israel,2026-06-02,,true
+103,KIR,Kiribati,2026-06-02,,true
+104,LBN,Lebanon,2026-06-02,,true
+105,LBY,Libya,2026-06-02,,true
+106,MWI,Malawi,2026-06-02,,true
+107,MLT,Malta,2026-06-02,,true
+108,MSR,Montserrat,2026-06-02,,true
+109,MAR,Morocco,2026-06-02,,true
+110,NPL,Nepal,2026-06-02,,true
+111,MKD,North Macedonia,2026-06-02,,true
+112,PRI,Puerto Rico,2026-06-02,,true
+113,WSM,Samoa,2026-06-02,,true
+114,SAU,Saudi Arabia,2026-06-02,,true
+115,SRB,Serbia,2026-06-02,,true
+116,SYC,Seychelles,2026-06-02,,true
+117,SVK,Slovakia,2026-06-02,,true
+118,SLB,Solomon Islands,2026-06-02,,true
+119,KOR,South Korea,2026-06-02,,true
+120,ESP,Spain,2026-06-02,,true
+121,SDN,Sudan,2026-06-02,,true
+122,TZA,Tanzania,2026-06-02,,true
+123,THA,Thailand,2026-06-02,,true
+124,URY,Uruguay,2026-06-02,,true
+125,VUT,Vanuatu,2026-06-02,,true
+126,VNM,Vietnam,2026-06-02,,true
+127,YEM,Yemen,2026-06-02,,true
+128,ZWE,Zimbabwe,2026-06-02,,true
+129,AFG,Afghanistan,2026-06-02,,true
+130,DZA,Algeria,2026-06-02,,true
+131,ASM,American Samoa,2026-06-02,,true
+132,ATG,Antigua and Barbuda,2026-06-02,,true
+133,AUS,Australia,2026-06-02,,true
+134,BWA,Botswana,2026-06-02,,true
+135,BGR,Bulgaria,2026-06-02,,true
+136,CHL,Chile,2026-06-02,,true
+137,COG,Congo,2026-06-02,,true
+138,DMA,Dominica,2026-06-02,,true
+139,ECU,Ecuador,2026-06-02,,true
+140,EGY,Egypt,2026-06-02,,true
+141,SLV,El Salvador,2026-06-02,,true
+142,EST,Estonia,2026-06-02,,true
+143,SWZ,Eswatini,2026-06-02,,true
+144,FJI,Fiji,2026-06-02,,true
+145,GUF,French Guiana,2026-06-02,,true
+146,GIB,Gibraltar,2026-06-02,,true
+147,GNB,Guinea-Bissau,2026-06-02,,true
+148,GUY,Guyana,2026-06-02,,true
+149,HTI,Haiti,2026-06-02,,true
+150,IND,India,2026-06-02,,true
+151,JPN,Japan,2026-06-02,,true
+152,KEN,Kenya,2026-06-02,,true
+153,KWT,Kuwait,2026-06-02,,true
+154,KGZ,Kyrgyzstan,2026-06-02,,true
+155,LAO,Laos,2026-06-02,,true
+156,LSO,Lesotho,2026-06-02,,true
+157,LBR,Liberia,2026-06-02,,true
+158,LUX,Luxembourg,2026-06-02,,true
+159,MDV,Maldives,2026-06-02,,true
+160,FSM,Micronesia (country),2026-06-02,,true
+161,MOZ,Mozambique,2026-06-02,,true
+162,NRU,Nauru,2026-06-02,,true
+163,NLD,Netherlands,2026-06-02,,true
+164,NZL,New Zealand,2026-06-02,,true
+165,MNP,Northern Mariana Islands,2026-06-02,,true
+166,PAK,Pakistan,2026-06-02,,true
+167,PSE,Palestine,2026-06-02,,true
+168,POL,Poland,2026-06-02,,true
+169,PRT,Portugal,2026-06-02,,true
+170,REU,Reunion,2026-06-02,,true
+171,KNA,Saint Kitts and Nevis,2026-06-02,,true
+172,LCA,Saint Lucia,2026-06-02,,true
+173,SOM,Somalia,2026-06-02,,true
+174,ZAF,South Africa,2026-06-02,,true
+175,SSD,South Sudan,2026-06-02,,true
+176,SUR,Suriname,2026-06-02,,true
+177,SWE,Sweden,2026-06-02,,true
+178,TJK,Tajikistan,2026-06-02,,true
+179,TGO,Togo,2026-06-02,,true
+180,TUN,Tunisia,2026-06-02,,true
+181,TUR,Turkey,2026-06-02,,true
+182,UGA,Uganda,2026-06-02,,true
+183,ARE,United Arab Emirates,2026-06-02,,true
+184,ATA,Antarctica,2026-06-02,,true
+185,ARG,Argentina,2026-06-02,,true
+186,ARM,Armenia,2026-06-02,,true
+187,BHS,Bahamas,2026-06-02,,true
+188,BRB,Barbados,2026-06-02,,true
+189,BRN,Brunei,2026-06-02,,true
+190,CMR,Cameroon,2026-06-02,,true
+191,CAN,Canada,2026-06-02,,true
+192,CAF,Central African Republic,2026-06-02,,true
+193,COM,Comoros,2026-06-02,,true
+194,CRI,Costa Rica,2026-06-02,,true
+195,HRV,Croatia,2026-06-02,,true
+196,COD,Democratic Republic of Congo,2026-06-02,,true
+197,TLS,East Timor,2026-06-02,,true
+198,ERI,Eritrea,2026-06-02,,true
+199,ETH,Ethiopia,2026-06-02,,true
+200,FRO,Faroe Islands,2026-06-02,,true
+201,FRA,France,2026-06-02,,true
+202,GMB,Gambia,2026-06-02,,true
+203,GLP,Guadeloupe,2026-06-02,,true
+204,HND,Honduras,2026-06-02,,true
+205,IRL,Ireland,2026-06-02,,true
+206,JOR,Jordan,2026-06-02,,true
+207,MYS,Malaysia,2026-06-02,,true
+208,MLI,Mali,2026-06-02,,true
+209,MTQ,Martinique,2026-06-02,,true
+210,MRT,Mauritania,2026-06-02,,true
+211,MUS,Mauritius,2026-06-02,,true
+212,MEX,Mexico,2026-06-02,,true
+213,MMR,Myanmar,2026-06-02,,true
+214,ANT,Netherlands Antilles,2026-06-02,,true
+215,NIC,Nicaragua,2026-06-02,,true
+216,NGA,Nigeria,2026-06-02,,true
+217,NOR,Norway,2026-06-02,,true
+218,PAN,Panama,2026-06-02,,true
+219,PRY,Paraguay,2026-06-02,,true
+220,SPM,Saint Pierre and Miquelon,2026-06-02,,true
